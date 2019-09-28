@@ -1,7 +1,8 @@
 # javascript-budget-app
 JavaScript Budget Calculator app
-This is javascript budget calculator app,
-this app inspired by this video https://www.youtube.com/watch?v=m_HJ3juuFvo you can chec out here.
+This is simple javascript budget calculator app .
+
+this app inspired by this video https://www.youtube.com/watch?v=m_HJ3juuFvo you can check out here.
 
 but i coded this app in diffrent appproch using constructor and module pattern
 
